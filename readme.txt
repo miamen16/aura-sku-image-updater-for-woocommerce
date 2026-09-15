@@ -45,7 +45,7 @@ Upload one or more images from the WooCommerce admin, type in the SKU for each o
 = 1.0.1 =
 * Updated plugin name and slug for WordPress.org review.
 * Added WooCommerce plugin dependency declaration.
-* Added unique Aura SKU prefixes to plugin identifiers.
+* Added unique internal SKU prefixes to plugin identifiers.
 
 = 1.0.0 =
 * Initial release.

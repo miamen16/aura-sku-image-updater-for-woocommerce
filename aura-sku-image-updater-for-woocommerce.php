@@ -7,7 +7,7 @@
  * Version:           1.0.2
  * Author:            mibrahim1995
  * Author URI:        https://github.com/miamen16
- * Text Domain:       aura-sku-image-updater-for-woocommerce
+ * Text Domain:       mibrahim1995-sku-image-updater-for-woocommerce
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Requires Plugins:  woocommerce
@@ -47,6 +47,6 @@ function aurasku_missing_woocommerce_notice() {
 		return;
 	}
 	echo '<div class="notice notice-error"><p>';
-	esc_html_e( 'Mibrahim1995 SKU Image Updater for WooCommerce requires WooCommerce to be installed and active.', 'aura-sku-image-updater-for-woocommerce' );
+	esc_html_e( 'Mibrahim1995 SKU Image Updater for WooCommerce requires WooCommerce to be installed and active.', 'mibrahim1995-sku-image-updater-for-woocommerce' );
 	echo '</p></div>';
 }
